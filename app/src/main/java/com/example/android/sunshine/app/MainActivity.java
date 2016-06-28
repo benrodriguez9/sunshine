@@ -20,8 +20,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import static com.example.android.sunshine.app.R.id;
-import static com.example.android.sunshine.app.R.layout;
+import com.example.android.sunshine.app.R.id;
+import com.example.android.sunshine.app.R.layout;
 
 public class MainActivity extends ActionBarActivity {
 
